@@ -1,2 +1,27 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jJ3oraFF)
-Cambia este readme.md por el contenido de la tarea Sobre mi 
+# Proyecto de Germán 
+
+ Mi nombre es **Germán** Cosano Torres, tengo **19 años** y soy de Casariche 
+
+![HA ocurrido un error en la foto](Mifoto.png)
+
+Mis hobbies son:
+- Jugar al futbol
+   - Jugar de delantero
+- jugar al tenis
+    - Jugar en la red
+- Ver partidos de futbol
+    - Con mis amigos
+
+### Mis Redes sociales son:
+
+Instagram: germ_ct
+Correo: a24cotoge@iesgrancapitan.org
+tiktok: yerman1371
+
+### Mi cita favorita es:
+
+> Cada día sabemos más y entendemos menos (Albert Einstein)
+
+### Observaciones:
+
+Aunque no lleve mucho en este ciclo me esta pareciendo muy interesante y siento interes en aprender mas en todos y cada uno de los modulos y que es la continuacion del clico de grado medio 
